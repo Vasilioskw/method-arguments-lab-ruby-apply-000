@@ -1,2 +1,4 @@
-def introduction(Josh)
+name =[Josh]
+
+def introduction(name)
   
