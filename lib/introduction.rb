@@ -5,8 +5,9 @@ def introduction(name)
   puts "Hi, my name is #{name}."
 end
 
-Name=[Dan]
+Name=["Dan"]
 
-language= 
+language=["Ember.js"]
 
 def introduction(name, language)
+do 
