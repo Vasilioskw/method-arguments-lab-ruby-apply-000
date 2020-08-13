@@ -5,7 +5,7 @@ def introduction(name)
   puts "Hi, my name is #{name}."
 end
 
-Name=[Josh, ]
+Name=[Dan]
 
 language= 
 
