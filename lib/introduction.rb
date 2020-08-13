@@ -1,4 +1,3 @@
-require "spec_helper"
 
 Name 
 def introduction(name)
